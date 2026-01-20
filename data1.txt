@@ -1,0 +1,12 @@
+_(400-x-400-px).png	
+_(400-x-400-px)-(1).png	
+_(400-x-400-px)-(2).png	
+_(400-x-400-px)-(3).png
+_(400-x-400-px)-(8).png	
+_(400-x-400-px)-(5).png	
+_(400-x-400-px)-(6).png	
+_(400-x-400-px)-(7).png	
+dog4.png
+dog3.png
+dog2.png
+dog1.png
